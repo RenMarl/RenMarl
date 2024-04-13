@@ -1,0 +1,16 @@
+﻿CREATE TABLE employees (
+    id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL,
+    address VARCHAR(255) NOT NULL,
+    salary INT(10) NOT NULL
+);
+
+
+// Paste this code to xampp(phpmyadmin-sql)
+// How to create db in phpmyadmin? 
+// -Start apache and mysql in control panel
+// - then click admin (at mysql)>>> to phpmyadmin
+
+// click "New"
+// input database name, at example "demo" then click create
+// go to sql then paste the code, then click "go" below
