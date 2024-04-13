@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RenMarl
 - 👀 I’m interested in Programming Somehow
-- 🌱 I’m currently learning C++ and Python...
+- 🌱 I’m currently learning C++ and Python and etchetera...
 
 
 <!---
